@@ -69,7 +69,7 @@ text-decoration: none;
         width: 1000px;
     }
 }
-@media(min-width: 800px){
+@media(min-width: 768px){
     .sociales{
         width:auto;
     }
